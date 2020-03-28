@@ -16,4 +16,4 @@
 
 - name: C++ / C
   percentage: 30
-  color: light
+  color: secondary

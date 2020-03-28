@@ -1,7 +1,7 @@
 ---
 name: 셀핀 웹 서비스 개발
 tools: [Vue.js, Django, Celery]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+image: /assets/img/selfin-mobile.png
+description: 비대면 인테리어 시공 스타트업 셀핀에서 백엔드/프론트엔드 웹 개발을 맡았습니다.
+external_url: https://www.selfinapp.co.kr
 ---

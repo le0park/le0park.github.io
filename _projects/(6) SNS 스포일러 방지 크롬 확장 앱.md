@@ -1,20 +1,27 @@
 ---
 name: SNS 스포일러 방지 크롬 확장 앱
 tools: [JS, HTML, CSS]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: /asset/img/nospoiler.png
+description: SNS 상의 영화 스포일러 내용을 차단하기 위한 프로젝트입니다. 브라우저에서 영화와 관련된 내용이 포함되어 있다면,
+             확장 앱에서 인식하여 볼 수 없도록 차단하는 역할을 진행합니다.
 ---
 
 # SNS 스포일러 방지 크롬 확장 앱
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+페이스북과 같은 SNS에서는 많은 사람들이 영화 정보를 공유한다.
+하지만 **그 정보들 중에 꼭 안 본 영화 스포일러는 있다.**
+모르는게 약이라고, 보고 싶은 영화 내용들은 숨기고 싶다!
+내가 보기 전에 **스포일러를 먼저 가려주자!**
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+## 어떤 기술이 사용되었나요?
+1. 크롬에서 쉽게 실행할 수 있는 확장 앱 기반으로
+2. 수많은 영화 정보를 검색할 수 있는 네이버 오픈 API
+3. 이 두 가지를 만들기 위해 필요한 언어 JavaScript
 
-## Search Movies
+## 어떻게 구동되나요?
+1. 네이버 오픈 API를 통한 영화 정보 검색 (JSON 데이터를 파싱)
+2. 검색 목록 중 필터링 하고 싶은 영화 선택! (해당 영화 정보를 분류, 저장)
+3. 페이스북에 접속했을 때, 매 초 마다 화면에 보이는 요소들을 검색
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+필터링 해야 될 단어가 있다면, 해당 게시글 내용을 숨김 설정합니다.,
+필터링된 글을 읽고 싶다면, 해당 이미지를 클릭했을 때, 게시글 내용이 숨김 해제됩니다.

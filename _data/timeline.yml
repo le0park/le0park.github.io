@@ -1,38 +1,34 @@
 - title: 학생, 중앙대학교 컴퓨터공학부
   from: 2014
   to: 2020 (예정)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 중앙대학교에서 컴퓨터공학을 전공하고 있습니다. 교내에서도 CLUG와 같은 학술동아리 뿐만 아니라,
+               축구, 밴드, 사진 등 여러 동아리 활동을 하면서 대학 생활을 하고 있습니다.
 
 
 - title: 웹 개발, 멋쟁이 사자처럼 3기
   from: 2015
   to: 2015
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 멋쟁이 사자처럼 3기로 활동을 통해서 처음 웹 개발에 발을 내딛었습니다.
+               HTML/CSS/JS와 Ruby on rails를 통해 소규모 문화정보 제공 플랫폼을 개발하였습니다.
+               이를 통해 처음으로 서비스에 대한 UI/UX, 서버 구조 설계에 대한 고민하는 과정을 겪을 수 있었습니다.
 
 
-- title: 개발 인턴, 나스텍
+- title: 웹 개발, 멋쟁이 사자처럼 3기
+  from: 2015
+  to: 2015
+  description: 멋쟁이 사자처럼 3기로 활동을 통해서 처음 웹 개발에 발을 내딛었습니다.
+               HTML/CSS/JS와 Ruby on rails를 통해 소규모 문화정보 제공 플랫폼을 개발하였습니다.
+               이를 통해 처음으로 서비스에 대한 UI/UX, 서버 구조 설계에 대한 고민하는 과정을 겪을 수 있었습니다.
+
+
+- title: 서버 개발 인턴, 나스텍
   from: 2018. 6
   to: 2018. 8
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: POS 결제 솔루션 기업인 나스텍에서 여름 단기 인턴으로 2개월 간 업무를 수행하였습니다.
+               잘못된 결제 정보 로그를 관리자가 확인할 수 있도록 읽고 데이터베이스에 삽입하는 프로그램을 개발하는 업무를 맡았습니다.
 
 
-- title: 웹 개발팀장, 셀핀
+- title: 웹 개발, 셀핀
   from: 2018
   to: 현재
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 비대면 인테리어 시공 스타트업 셀핀에서 백엔드/프론트엔드 웹 개발을 맡았습니다.
