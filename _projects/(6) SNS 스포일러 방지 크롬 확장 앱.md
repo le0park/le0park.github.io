@@ -1,7 +1,7 @@
 ---
 name: SNS 스포일러 방지 크롬 확장 앱
 tools: [Chrome-extension, JS]
-image: /asset/img/nospoiler.png
+image: /assets/img/nospoiler.png
 description: SNS 상의 영화 스포일러 내용을 차단하기 위한 프로젝트입니다. 브라우저에서 영화와 관련된 내용이 포함되어 있다면,
              확장 앱에서 인식하여 볼 수 없도록 차단하는 역할을 진행합니다.
 ---
