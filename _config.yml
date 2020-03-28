@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : "Leo's Log"
 description         : >-
-                      "하루하루 더 빛날 수 있도록 노력하고 있습니다:running:."
+                      "하루하루 더 빛날 수 있도록 노력하고 있습니다. :running:"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : le0park/le0park.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
