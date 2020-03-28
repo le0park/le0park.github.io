@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+안녕하세요:wave:, **{{ site.author.name }}** 입니다. <br>
+상상을 현실로 만들기 위해 컴퓨터공학을 배우게 된 따끈따끈한:hotsprings: 개발자입니다. <br>
+다양한 언어, 기술, 원리에 거부감이 적고 배우는 것을 좋아합니다.
+음악도 클래식:musical_score:부터 힙합:minidisc:까지 가리지 않고 좋아합니다.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
