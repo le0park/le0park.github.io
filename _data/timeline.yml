@@ -1,15 +1,36 @@
-- title: Student, Harvard CS
+- title: 학생, 중앙대학교 컴퓨터공학부
   from: 2014
-  to: 2018
+  to: 2020 (예정)
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
+
+- title: 웹 개발, 멋쟁이 사자처럼 3기
+  from: 2015
+  to: 2015
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+- title: 개발 인턴, 나스텍
+  from: 2018. 6
+  to: 2018. 8
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+- title: 웹 개발팀장, 셀핀
   from: 2018
-  to: present
+  to: 현재
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
