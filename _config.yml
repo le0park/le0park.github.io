@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : "Leo's Log"
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "하루하루 더 빛날 수 있도록 노력하고 있습니다:running:."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : le0park/le0park.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -23,7 +21,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Junyoung Park
+  name              : 박준영
   image             : /assets/img/profile.jpg
 # behance           : your_username
 # dribbble          : your_username
@@ -31,7 +29,7 @@ author:
 # facebook          : le0park
   github            : le0park
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : j.wab
 # linkedin          : your_username
 # medium            : your_username
 # soundcloud        : your_username
