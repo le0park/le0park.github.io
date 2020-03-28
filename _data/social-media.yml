@@ -17,12 +17,12 @@ email:
   color : db4437
 
 facebook:
-  url   : https://www.facebook.com/carpe0308
+  url   : https://www.facebook.com/
   icon  : fab fa-facebook
   color : 3b5998
 
 github:
-  url   : https://www.github.com/le0park
+  url   : https://www.github.com/
   icon  : fab fa-github
   color : 333333
 
@@ -32,7 +32,7 @@ github:
 #   color : fca326
 
 instagram:
-  url   : https://www.instagram.com/j.wab
+  url   : https://www.instagram.com/
   icon  : fab fa-instagram
   color : 405de6
 
